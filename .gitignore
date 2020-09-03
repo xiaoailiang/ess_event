@@ -1,0 +1,15 @@
+__pycache__
+.vscode
+.idea
+.all.json
+*.pyc
+*test.py
+db.sqlite3
+accounts.json
+/static/
+/logs/
+/media/
+celerybeat.pid
+celerybeat-schedule
+.DS_Store
+venv
